@@ -5,3 +5,6 @@
 *.jpeg
 *.zip
 *.tiff
+__pycache__
+*.pyc
+*.hdr
